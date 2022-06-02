@@ -9,3 +9,5 @@ else:
 8=======D
 if jean duerme <4 hrs
 print("día triste :(")
+while True:
+  print("Estamos en un bucle!")
