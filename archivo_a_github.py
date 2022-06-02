@@ -1,2 +1,2 @@
 print("hola mundo")
-res=input("colo que su respuesta para revisar en el github: ")
+res=input("coloque su respuesta para revisar en el github: ")
