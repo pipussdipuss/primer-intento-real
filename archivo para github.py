@@ -7,3 +7,5 @@ else:
     print("danilo no pasa el ramo de algoritmos")
     
 8=======D
+if jean duerme <4 hrs
+print("día triste :(")
